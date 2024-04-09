@@ -1,0 +1,98 @@
+.main-section{
+	padding-top: 20px;
+}
+.logo{
+	padding: 10px;
+}
+.s-img{
+	width: 100%;
+}
+.uk{
+	display: flex;
+	align-items: center;
+	padding: 10px;
+}
+.hom-img{
+	height: 50px;
+	width: 50px;
+}
+.uk .hom-ta{
+	font-size: 16px;
+    margin-left: 10px;
+    color: black;
+}
+.uk .icon{
+	font-size: 16px;
+	color: black;
+}
+
+
+.cont-m{
+	background-color: pink;
+}
+.up{
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	padding: 10px;
+}
+.up-img{
+	border-radius: 50%;
+	align-items: center;
+	width: 100%;
+}
+.up-line{
+	margin: 0px;
+	text-align: center;
+}
+.dp-icon{
+	width: 100px;
+	padding: 0 10px;
+}
+
+.do{
+	background-color: darkred;
+}
+
+
+
+.cont-e{
+}
+.why{
+	display: flex;
+	justify-content: space-between;
+	gap: 10px;
+}
+	
+
+.why .es{
+	font-size: 11px;
+	display: flex;
+	gap: 10px;
+}
+.es-te h6{
+	margin: 0;
+}
+.es-img{
+	width: 100%;
+	height: 40px;
+	border-radius: 50%;
+}
+.amb{
+	font-size: 2em;
+    padding-left: 10px;
+	
+
+}
+.ambk{
+}
+
+.es-te{
+	text-align: center;
+	align-items: center;
+}
+.ee{
+	font-size: 12px;
+	color: blue;
+}
+
